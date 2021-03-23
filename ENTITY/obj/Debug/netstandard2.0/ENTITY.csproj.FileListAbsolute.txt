@@ -1,0 +1,8 @@
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\Sebastian\source\repos\RedPerceptron\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
